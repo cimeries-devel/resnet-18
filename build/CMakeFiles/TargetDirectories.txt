@@ -1,0 +1,3 @@
+/home/gecko/Cimeries/clion/resnet/build/CMakeFiles/resnet.dir
+/home/gecko/Cimeries/clion/resnet/build/CMakeFiles/edit_cache.dir
+/home/gecko/Cimeries/clion/resnet/build/CMakeFiles/rebuild_cache.dir
